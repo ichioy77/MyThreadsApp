@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyThreadsApp</string>
+
+    <string name="run_main_thread">Ejecutar en UI Thread</string>
+    <string name="run_worker_thread">Ejecutar en worker Thread</string>
+    <string name="run_async_task">Ejecutar con AsyncTask</string>
+    <string name="progress_tittle">Espera</string>
+    <string name="progress_message">ESpera un momento&#8230;</string>
+</resources>
